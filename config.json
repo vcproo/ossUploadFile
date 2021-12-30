@@ -1,0 +1,8 @@
+{
+  "STSAccessKeyID" : "LTAI5tMc7vUYnYEzA9CXvYDk",
+  "STSAccessKeySecret" : "Yousa9YsThYeeuWQnVuPuG7YorfHGd",
+  "STSRoleArn" : "acs:ram::1749797466036023:role/ramosstest",
+  "BucketName" : "dbs-backup-1749797466036023",
+  "Endpoint" : "http://oss-cn-hangzhou.aliyuncs.com",
+  "Regon":"cn-hangzhou"
+}

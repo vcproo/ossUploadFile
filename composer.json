@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.4",
+        "alibabacloud/sdk": "^1.8"
+    }
+}
